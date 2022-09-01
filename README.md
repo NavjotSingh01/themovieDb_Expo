@@ -42,3 +42,13 @@ Runs the [jest](https://github.com/facebook/jest) test runner on your tests.
 Like `npm start`, but also attempts to open your app in the iOS Simulator if you're on a Mac and have it installed.
 
 #### `npm run android`
+
+
+## GET YOUR OWN API KEY 
+
+If you don’t already have an account, you will need to create one in order to request an API Key.
+In your request for a key, state that your usage will be for educational/non-commercial use. 
+You will also need to provide some personal information to complete the request. Once you submit your request, you should receive your key via email shortly after.
+
+### `https://www.themoviedb.org/`
+
