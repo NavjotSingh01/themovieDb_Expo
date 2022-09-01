@@ -3,6 +3,9 @@ the MovieDb.org  expo App
 
 
 
+## ANDROID
+![Screenshot](/assets/ANDROID1.png)
+
 
 
 
