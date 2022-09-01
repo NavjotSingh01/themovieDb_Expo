@@ -7,8 +7,14 @@ import { IMovieType } from '../types/movies.types';
 
 export default function HomeScreen({ navigation }: any) {
 
+  // fetching popular movie details
   const movielist = useGetPopularMoviesQuery();
-  console.log(movielist);
+
+  /**
+   * @brief Navigate to the movie details page 
+   * and pass the movie object in the route for it to display details
+   * @param Movie object
+   */
   const handlePage = (item: IMovieType) => {
     navigation.navigate("MovieDetails", {
       movieDetails: item
