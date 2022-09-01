@@ -2,9 +2,12 @@
 the MovieDb.org  expo App
 
 
+## IOS 
+<img src="https://github.com/NavjotSingh01/themovieDb_Expo/blob/main/assets/IPHONE1.PNG" width="300" height="600">  <img src="https://github.com/NavjotSingh01/themovieDb_Expo/blob/main/assets/IPHONE2.PNG" width="300" height="600"> 
 
+## ANDROID
 
-
+<img src="https://github.com/NavjotSingh01/themovieDb_Expo/blob/main/assets/ANDROID1.png" width="300" height="600">  <img src="https://github.com/NavjotSingh01/themovieDb_Expo/blob/main/assets/ANDROID2.png" width="300" height="600"> 
 
 
 
