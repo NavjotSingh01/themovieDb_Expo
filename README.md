@@ -4,11 +4,10 @@ the MovieDb.org  expo App
 
 
 ## ANDROID
-![Screenshot](/assets/ANDROID1.png)
-![Screenshot](/assets/ANDROID2.png)
+<!-- ![Screenshot](/assets/ANDROID1.png)
+![Screenshot](/assets/ANDROID2.png) -->
 
-
-
+<img src="[https://your-image-url.type](https://github.com/NavjotSingh01/themovieDb_Expo/blob/main/assets/ANDROID1.png)" width="100" height="100">
 
 
 
